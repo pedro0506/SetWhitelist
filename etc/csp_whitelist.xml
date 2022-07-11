@@ -74,6 +74,7 @@
                 <value id="cardinalcommerce" type="host">*.cardinalcommerce.com</value>
                 <value id="css.gg" type="host">*.css.gg</value>
                 <value id="boataxa" type="host">boataxa.com.br</value>
+                <value id="googleapis" type="host">*.googleapis.com</value>
             </values>
         </policy>
         <policy id="font-src">
