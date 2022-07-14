@@ -36,9 +36,11 @@
                 <value id="trustedshops" type="host">*.trustedshops.com</value>
                 <value id="usercentrics" type="host">*.usercentrics.eu</value>
                 <value id="fontawesome" type="host">*.fontawesome.com</value>
-                <value id="css.gg" type="host">*.css.gg</value>
-                <value id="unpkg.com" type="host">*.unpkg.com</value>
-                <value id="unpkg.com" type="host">*.jsdelivr.net</value>
+                <value id="*.css.gg" type="host">*.css.gg</value>
+                <value id="css.gg" type="host">css.gg</value>
+                <value id="*.unpkg.com" type="host">*.unpkg.com</value>
+                <value id="unpkg.com" type="host">unpkg.com</value>
+                <value id="jsdelivr.net" type="host">*.jsdelivr.net</value>
             </values>
         </policy>
         <policy id="img-src">
